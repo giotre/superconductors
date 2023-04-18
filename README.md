@@ -1,6 +1,6 @@
 # superconductors
 
-This repository contains codes related to the publication "Optimal composition based material descriptors for machine learning: A case study on superconductor classification" (add link arXiv).
+This repository contains codes related to the publication "Leveraging Composition-Based Material Descriptors for Machine Learning Optimization" (https://arxiv.org/abs/2304.07592).
 
 In particular:
 
