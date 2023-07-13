@@ -1,6 +1,6 @@
 # superconductors
 
-This repository contains codes related to the publication "Leveraging Composition-Based Material Descriptors for Machine Learning Optimization" (https://arxiv.org/abs/2304.07592).
+This repository contains codes related to the publication "Leveraging composition-based energy material descriptors for machine learning models" (https://www.sciencedirect.com/science/article/pii/S2352492823012709).
 
 In particular:
 
